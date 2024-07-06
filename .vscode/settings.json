@@ -6,6 +6,11 @@
         "vector": "cpp",
         "iosfwd": "cpp",
         "ios": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "stack": "cpp",
+        "__node_handle": "cpp",
+        "queue": "cpp",
+        "__locale": "cpp",
+        "string_view": "cpp"
     }
 }
