@@ -11,6 +11,11 @@
         "__node_handle": "cpp",
         "queue": "cpp",
         "__locale": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp"
     }
 }
